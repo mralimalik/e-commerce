@@ -1,0 +1,17 @@
+.main-page-div{
+    display: flex;
+    height: 100vh;
+}
+
+.divider{
+    width: 2px;
+    background-color: rgb(255, 255, 255);
+}
+.side-bar-main{
+    padding: 10px;
+    box-shadow: 0px 4px 10px rgba(253, 253, 253, 0.76); 
+    width: 350px;
+}
+.side-content{
+    width: 100%;
+}
